@@ -1,7 +1,7 @@
 <?php
 /**
  * Description of EstoqueArmazem
- *teste
+ *
  * @author leonardo.laurindo
  */
 class EstoqueArmazemModel {
