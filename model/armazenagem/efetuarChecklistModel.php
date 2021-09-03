@@ -1,7 +1,7 @@
 <?php
 /**
  * Description of efetuarChecklist
- *
+ * este tem comentario
  * @author luiz.imhof
  */
 class efetuarChecklistModel {
